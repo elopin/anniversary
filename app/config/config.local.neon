@@ -3,8 +3,8 @@ parameters:
 
 nette:
 	database:
-		dsn: 'mysql:host=127.0.0.1;dbname=test'
-		user:
-		password:
+		dsn: 'mysql:host=project.iivos.cz;port=9906;dbname=iivos3Dalfa'
+		user: 'janacek'
+		password: 'Lukas.Janacek'
 		options:
 			lazy: yes

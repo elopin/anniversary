@@ -1,54 +1,75 @@
+.form {
+    margin: 5%;
+    font-family: cursive;
+}
+
+#loginFormDiv {
+    border: 1px solid;
+    border-radius: 20px;
+    width: 30%;
+    margin: auto;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    background-color: lawngreen;
+}
+
+#anniversaryFormDiv {
+    float:left;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 35%;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    background-color: lawngreen;
+}
+
+#anniversaryListDiv {
+    border: 1px solid;
+    border-radius: 20px;
+    width: 64%;
+    min-width: 300px;
+    min-height: 20px;
+    margin-left: 36%;
+    text-align: center;
+    background-color: lawngreen;
+}
+
+.button {
+    
+    width: 90px;
+    height: 30px;
+    padding: 1px;
+    font-family: cursive;
+    font-size: 14px;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 2px;
+    border-top-color: lightcyan;
+    border-left-color: lightcyan;
+    border-bottom-color: darkgrey;
+    border-right-color: darkgrey;
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: black;
+    cursor: pointer;
+    white-space: normal;
+}
+
+tr {
+    height: 30px;
+}
+
+h1, h3 {
+    font-family: cursive;
+    text-align: center;
+}
+
 body {
-	font-size: 15px;
-	line-height: 1.6;
-	color: #333;
-	background: white;
+    background-color: #0FD9F0;
 }
 
-h1 {
-	color: #3484D2;
-}
-
-#ajax-spinner {
-	margin: 15px 0 0 15px;
-	padding: 13px;
-	background: white url('../images/spinner.gif') no-repeat 50% 50%;
-	font-size: 0;
-	z-index: 123456;
-	display: none;
-}
-
-div.flash {
-	color: black;
-	background: #FFF9D7;
-	border: 1px solid #E2C822;
-	padding: 1em;
-	margin: 1em 0;
-}
-
-a[href^="error:"] {
-	background: red;
-	color: white;
-}
-
-form th, form td {
-	vertical-align: top;
-	font-weight: normal;
-}
-
-form th {
-	text-align: right;
-}
-
-form .required label {
-	font-weight: bold;
-}
-
-form .error {
-	color: #D00;
-	font-weight: bold;
-}
-
-html.js .jshidden {
-	display: none;
+.nameLabel {
+    font-family: cursive;
 }

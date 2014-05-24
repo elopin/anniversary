@@ -23,6 +23,7 @@ nette:
 
 
 services:
-	- App\Model\UserManager
+	- App\Model\UserRepository
+	- App\Model\AnniversaryRepository
 	- App\RouterFactory
 	router: @App\RouterFactory::createRouter

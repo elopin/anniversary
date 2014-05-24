@@ -1,4 +1,4 @@
-<?php //netteCache[01]007842a:2:{s:4:"time";s:21:"0.97325400 1400966589";s:9:"callbacks";a:44:{i:0;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:51:"/home/elopin/www/anniversary/app/config/config.neon";i:2;i:1400270745;}i:1;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:57:"/home/elopin/www/anniversary/app/config/config.local.neon";i:2;i:1400275650;}i:2;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:84:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Extensions/PhpExtension.php";i:2;i:1395082590;}i:3;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:90:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Extensions/ConstantsExtension.php";i:2;i:1395082590;}i:4;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:86:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Extensions/NetteExtension.php";i:2;i:1395082590;}i:5;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:91:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Extensions/ExtensionsExtension.php";i:2;i:1395082590;}i:6;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:71:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/common/Object.php";i:2;i:1395082590;}i:7;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:85:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Extensions/NetteAccessor.php";i:2;i:1395082590;}i:8;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:83:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Caching/Storages/IJournal.php";i:2;i:1395082590;}i:9;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:86:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Caching/Storages/FileJournal.php";i:2;i:1395082590;}i:10;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:74:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Caching/IStorage.php";i:2;i:1395082590;}i:11;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:86:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Caching/Storages/FileStorage.php";i:2;i:1395082590;}i:12;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:77:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/RequestFactory.php";i:2;i:1395082590;}i:13;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:71:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/IRequest.php";i:2;i:1395082590;}i:14;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/Request.php";i:2;i:1395082590;}i:15;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:72:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/IResponse.php";i:2;i:1395082590;}i:16;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:71:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/Response.php";i:2;i:1395082590;}i:17;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/Context.php";i:2;i:1395082590;}i:18;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/Session.php";i:2;i:1395082590;}i:19;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:79:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Security/IUserStorage.php";i:2;i:1395082590;}i:20;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:74:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Http/UserStorage.php";i:2;i:1395082590;}i:21;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:71:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Security/User.php";i:2;i:1395082590;}i:22;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:81:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Application/Application.php";i:2;i:1395082590;}i:23;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:87:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Application/IPresenterFactory.php";i:2;i:1395082590;}i:24;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:86:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Application/PresenterFactory.php";i:2;i:1395082590;}i:25;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:77:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Application/IRouter.php";i:2;i:1395082590;}i:26;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Mail/IMailer.php";i:2;i:1395082590;}i:27;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:77:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Mail/SendmailMailer.php";i:2;i:1395082590;}i:28;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:77:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Database/Connection.php";i:2;i:1395082590;}i:29;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:74:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Database/Context.php";i:2;i:1395082590;}i:30;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:64:"/home/elopin/www/anniversary/app/model/AnniversaryRepository.php";i:2;i:1400964159;}i:31;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:57:"/home/elopin/www/anniversary/app/model/UserRepository.php";i:2;i:1400966585;}i:32;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:57:"/home/elopin/www/anniversary/app/router/RouterFactory.php";i:2;i:1398282941;}i:33;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/DI/Container.php";i:2;i:1395082590;}i:34;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:94:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Application/Diagnostics/RoutingPanel.php";i:2;i:1395082590;}i:35;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:68:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Forms/Form.php";i:2;i:1395082590;}i:36;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:71:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Caching/Cache.php";i:2;i:1395082590;}i:37;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:98:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Database/Reflection/DiscoveredReflection.php";i:2;i:1395082590;}i:38;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:74:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Database/Helpers.php";i:2;i:1395082590;}i:39;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Latte/Engine.php";i:2;i:1395082590;}i:40;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:70:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Mail/Message.php";i:2;i:1395082590;}i:41;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:81:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Templating/FileTemplate.php";i:2;i:1395082590;}i:42;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:77:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Templating/Template.php";i:2;i:1395082590;}i:43;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:88:"/home/elopin/www/anniversary/vendor/nette/nette/Nette/Security/Diagnostics/UserPanel.php";i:2;i:1395082590;}}}?><?php
+<?php //netteCache[01]000378a:2:{s:4:"time";s:21:"0.44251100 1400250835";s:9:"callbacks";a:2:{i:0;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:51:"/home/elopin/www/anniversary/app/config/config.neon";i:2;i:1395082558;}i:1;a:3:{i:0;a:2:{i:0;s:19:"Nette\Caching\Cache";i:1;s:9:"checkFile";}i:1;s:57:"/home/elopin/www/anniversary/app/config/config.local.neon";i:2;i:1400250060;}}}?><?php
 // source: /home/elopin/www/anniversary/app/config/config.neon 
 // source: /home/elopin/www/anniversary/app/config/config.local.neon 
 
@@ -34,8 +34,7 @@ class SystemContainer extends Nette\DI\Container
 				'nette.mailer',
 				'nette.database.default',
 				'nette.database.default.context',
-				'22_App_Model_AnniversaryRepository',
-				'23_App_Model_UserRepository',
+				'22_App_Model_UserManager',
 				'container',
 			),
 			'nette\\di\\extensions\\netteaccessor' => array('nette'),
@@ -61,9 +60,9 @@ class SystemContainer extends Nette\DI\Container
 			'nette\\mail\\sendmailmailer' => array('nette.mailer'),
 			'nette\\database\\connection' => array('nette.database.default'),
 			'nette\\database\\context' => array('nette.database.default.context'),
-			'app\\model\\anniversaryrepository' => array('22_App_Model_AnniversaryRepository'),
-			'app\\model\\userrepository' => array('23_App_Model_UserRepository'),
-			'app\\routerfactory' => array('24_App_RouterFactory'),
+			'nette\\security\\iauthenticator' => array('22_App_Model_UserManager'),
+			'app\\model\\usermanager' => array('22_App_Model_UserManager'),
+			'app\\routerfactory' => array('23_App_RouterFactory'),
 			'nette\\di\\container' => array('container'),
 		),
 	);
@@ -74,8 +73,8 @@ class SystemContainer extends Nette\DI\Container
 		parent::__construct(array(
 			'appDir' => '/home/elopin/www/anniversary/app',
 			'wwwDir' => '/home/elopin/www/anniversary/www',
-			'debugMode' => TRUE,
-			'productionMode' => FALSE,
+			'debugMode' => FALSE,
+			'productionMode' => TRUE,
 			'environment' => 'development',
 			'consoleMode' => FALSE,
 			'container' => array(
@@ -89,21 +88,11 @@ class SystemContainer extends Nette\DI\Container
 
 
 	/**
-	 * @return App\Model\AnniversaryRepository
+	 * @return App\Model\UserManager
 	 */
-	public function createService__22_App_Model_AnniversaryRepository()
+	public function createService__22_App_Model_UserManager()
 	{
-		$service = new App\Model\AnniversaryRepository($this->getService('nette.database.default.context'));
-		return $service;
-	}
-
-
-	/**
-	 * @return App\Model\UserRepository
-	 */
-	public function createService__23_App_Model_UserRepository()
-	{
-		$service = new App\Model\UserRepository($this->getService('nette.database.default.context'));
+		$service = new App\Model\UserManager($this->getService('nette.database.default.context'));
 		return $service;
 	}
 
@@ -111,7 +100,7 @@ class SystemContainer extends Nette\DI\Container
 	/**
 	 * @return App\RouterFactory
 	 */
-	public function createService__24_App_RouterFactory()
+	public function createService__23_App_RouterFactory()
 	{
 		$service = new App\RouterFactory;
 		return $service;
@@ -124,10 +113,9 @@ class SystemContainer extends Nette\DI\Container
 	public function createServiceApplication()
 	{
 		$service = new Nette\Application\Application($this->getService('nette.presenterFactory'), $this->getService('router'), $this->getService('httpRequest'), $this->getService('httpResponse'));
-		$service->catchExceptions = FALSE;
+		$service->catchExceptions = TRUE;
 		$service->errorPresenter = 'Error';
 		Nette\Application\Diagnostics\RoutingPanel::initializePanel($service);
-		Nette\Diagnostics\Debugger::getBar()->addPanel(new Nette\Application\Diagnostics\RoutingPanel($this->getService('router'), $this->getService('httpRequest'), $this->getService('nette.presenterFactory')));
 		return $service;
 	}
 
@@ -221,10 +209,9 @@ class SystemContainer extends Nette\DI\Container
 	 */
 	public function createServiceNette__database__default()
 	{
-		$service = new Nette\Database\Connection('mysql:host=project.iivos.cz;port=9906;dbname=iivos3Dalfa', 'janacek', 'Lukas.Janacek', array('lazy' => TRUE));
+		$service = new Nette\Database\Connection('mysql:host=project.iivos.cz:9906;dbname=iivos3Dalfa', 'janacek', 'Lukas.Janacek', array('lazy' => TRUE));
 		$service->setContext(new Nette\Database\Context($service, new Nette\Database\Reflection\DiscoveredReflection($service, $this->getService('cacheStorage')), $this->getService('cacheStorage')));
 		Nette\Diagnostics\Debugger::getBlueScreen()->addPanel('Nette\\Database\\Diagnostics\\ConnectionPanel::renderException');
-		Nette\Database\Helpers::createDebugPanel($service, TRUE, 'default');
 		return $service;
 	}
 
@@ -345,7 +332,7 @@ class SystemContainer extends Nette\DI\Container
 	 */
 	public function createServiceRouter()
 	{
-		$service = $this->getService('24_App_RouterFactory')->createRouter();
+		$service = $this->getService('23_App_RouterFactory')->createRouter();
 		if (!$service instanceof Nette\Application\IRouter) {
 			throw new Nette\UnexpectedValueException('Unable to create service \'router\', value returned by factory is not Nette\\Application\\IRouter type.');
 		}
@@ -369,8 +356,7 @@ class SystemContainer extends Nette\DI\Container
 	 */
 	public function createServiceUser()
 	{
-		$service = new Nette\Security\User($this->getService('nette.userStorage'));
-		Nette\Diagnostics\Debugger::getBar()->addPanel(new Nette\Security\Diagnostics\UserPanel($service));
+		$service = new Nette\Security\User($this->getService('nette.userStorage'), $this->getService('22_App_Model_UserManager'));
 		return $service;
 	}
 

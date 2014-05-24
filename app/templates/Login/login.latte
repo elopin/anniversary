@@ -1,11 +1,27 @@
 {* Latte template *}
 
-
-
 <h1 n:block=title>Přihlášení</h1>
 
 {block content}
-
-    {$form}
-
+<div>
+    {if $unchecked} 
+        <h3 style="color : red ">Neplatné přihlašovací údaje!</h3>
+    {elseif $registerFail}
+        <h3 style="color : red ">Chyba při registraci uživatele!</h3>
+    {elseif $noEmail}
+	<h3 style="color : red ">Není vyplněn e-mail!</h3>
+    {elseif $duplicateUser}
+	<h3 style="color : red ">Uživatel se zadaným e-mailem již existuje!</h3>	
+    {elseif $passwordFail}
+	<h3 style="color : red ">Chyba při kontrole hesla!</h3>
+    {/if}
+    <div id="loginFormDiv">
+        {if $newUser}
+	    {control registerForm}
+        {else}
+	    <p>Zadejte přihlašovací údaje nebo vytvořte nový účet!</p>
+            {control loginForm}
+        {/if}	
+    </div>        
+</div>
 {/block}
